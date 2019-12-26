@@ -2,9 +2,7 @@
   "tipo": "tipologia",
   "datos": [
     {
-      
       "escrutinio_sitio": {
-        {
           "id": "4",
           "num_a_elegir": "6",
           "nombre_lugar": "Congreso",
@@ -114,7 +112,6 @@
                 "votos_porciento": "0.1"
               }
             ]
-          }
         }
       }
     },
