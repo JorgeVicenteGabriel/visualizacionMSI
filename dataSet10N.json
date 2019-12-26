@@ -2,115 +2,120 @@
   "tipo": "tipologia",
   "datos": [
     {
-      "id": "4",
-      "num_a_elegir": "6",
-      "nombre_lugar": "Congreso",
-      "nombre_disputado": "escaños",
-      "porciento_escrutado": "100",
-      "nombre_sitio": "Almería",
-      "HASC_2": "ES.AN.AM",
-      "convocatoria": "2019",
-      "ts": "1573454342",
-      "tipo_sitio": "3",
-      "votos": {
-        "contabilizados": {
-          "cantidad": "303486",
-          "porcentaje": "65.88"
-        },
-        "abstenciones": {
-          "cantidad": "157156",
-          "porcentaje": "34.12"
-        },
-        "nulos": {
-          "cantidad": "2988",
-          "porcentaje": "0.98"
-        },
-        "blancos": {
-          "cantidad": "2681",
-          "porcentaje": "0.89"
-        }
-      },
-      "resultados": {
-        "numero_partidos": "11",
-        "partido": [
-          {
-            "id_partido": "94",
-            "nombre": "PSOE",
-            "electos": "2",
-            "votos_numero": "88425",
-            "votos_porciento": "29.43"
+      
+      "escrutinio_sitio": {
+        {
+          "id": "4",
+          "num_a_elegir": "6",
+          "nombre_lugar": "Congreso",
+          "nombre_disputado": "escaños",
+          "porciento_escrutado": "100",
+          "nombre_sitio": "Almería",
+          "HASC_2": "ES.AN.AM",
+          "convocatoria": "2019",
+          "ts": "1573454342",
+          "tipo_sitio": "3",
+          "votos": {
+            "contabilizados": {
+              "cantidad": "303486",
+              "porcentaje": "65.88"
+            },
+            "abstenciones": {
+              "cantidad": "157156",
+              "porcentaje": "34.12"
+            },
+            "nulos": {
+              "cantidad": "2988",
+              "porcentaje": "0.98"
+            },
+            "blancos": {
+              "cantidad": "2681",
+              "porcentaje": "0.89"
+            }
           },
-          {
-            "id_partido": "116",
-            "nombre": "VOX",
-            "electos": "2",
-            "votos_numero": "80397",
-            "votos_porciento": "26.75"
-          },
-          {
-            "id_partido": "83",
-            "nombre": "PP",
-            "electos": "2",
-            "votos_numero": "77751",
-            "votos_porciento": "25.87"
-          },
-          {
-            "id_partido": "81",
-            "nombre": "PODEMOS-IU LV CA",
-            "electos": "0",
-            "votos_numero": "24089",
-            "votos_porciento": "8.02"
-          },
-          {
-            "id_partido": "18",
-            "nombre": "Cs",
-            "electos": "0",
-            "votos_numero": "22645",
-            "votos_porciento": "7.54"
-          },
-          {
-            "id_partido": "55",
-            "nombre": "PACMA",
-            "electos": "0",
-            "votos_numero": "2518",
-            "votos_porciento": "0.84"
-          },
-          {
-            "id_partido": "23",
-            "nombre": "EB",
-            "electos": "0",
-            "votos_numero": "586",
-            "votos_porciento": "0.2"
-          },
-          {
-            "id_partido": "58",
-            "nombre": "PCPA",
-            "electos": "0",
-            "votos_numero": "411",
-            "votos_porciento": "0.14"
-          },
-          {
-            "id_partido": "98",
-            "nombre": "PUM+J",
-            "electos": "0",
-            "votos_numero": "360",
-            "votos_porciento": "0.12"
-          },
-          {
-            "id_partido": "101",
-            "nombre": "RECORTES CERO-GV",
-            "electos": "0",
-            "votos_numero": "334",
-            "votos_porciento": "0.11"
-          },
-          {
-            "id_partido": "9",
-            "nombre": "AxSÍ",
-            "electos": "0",
-            "votos_numero": "301",
-            "votos_porciento": "0.1"
+          "resultados": {
+            "numero_partidos": "11",
+            "partido": [
+              {
+                "id_partido": "94",
+                "nombre": "PSOE",
+                "electos": "2",
+                "votos_numero": "88425",
+                "votos_porciento": "29.43"
+              },
+              {
+                "id_partido": "116",
+                "nombre": "VOX",
+                "electos": "2",
+                "votos_numero": "80397",
+                "votos_porciento": "26.75"
+              },
+              {
+                "id_partido": "83",
+                "nombre": "PP",
+                "electos": "2",
+                "votos_numero": "77751",
+                "votos_porciento": "25.87"
+              },
+              {
+                "id_partido": "81",
+                "nombre": "PODEMOS-IU LV CA",
+                "electos": "0",
+                "votos_numero": "24089",
+                "votos_porciento": "8.02"
+              },
+              {
+                "id_partido": "18",
+                "nombre": "Cs",
+                "electos": "0",
+                "votos_numero": "22645",
+                "votos_porciento": "7.54"
+              },
+              {
+                "id_partido": "55",
+                "nombre": "PACMA",
+                "electos": "0",
+                "votos_numero": "2518",
+                "votos_porciento": "0.84"
+              },
+              {
+                "id_partido": "23",
+                "nombre": "EB",
+                "electos": "0",
+                "votos_numero": "586",
+                "votos_porciento": "0.2"
+              },
+              {
+                "id_partido": "58",
+                "nombre": "PCPA",
+                "electos": "0",
+                "votos_numero": "411",
+                "votos_porciento": "0.14"
+              },
+              {
+                "id_partido": "98",
+                "nombre": "PUM+J",
+                "electos": "0",
+                "votos_numero": "360",
+                "votos_porciento": "0.12"
+              },
+              {
+                "id_partido": "101",
+                "nombre": "RECORTES CERO-GV",
+                "electos": "0",
+                "votos_numero": "334",
+                "votos_porciento": "0.11"
+              },
+              {
+                "id_partido": "9",
+                "nombre": "AxSÍ",
+                "electos": "0",
+                "votos_numero": "301",
+                "votos_porciento": "0.1"
+              }
+            ]
           }
-        ]
+        }
       }
     },
     {
@@ -1963,122 +1968,124 @@
       }
     },
     {
-      "id": "37",
-      "num_a_elegir": "4",
-      "nombre_lugar": "Congreso",
-      "nombre_disputado": "escaños",
-      "porciento_escrutado": "100",
-      "nombre_sitio": "Salamanca",
-      "HASC_2": "ES.CL.SL",
-      "convocatoria": "2019",
-      "ts": "1573454342",
-      "tipo_sitio": "3",
-      "votos": {
-        "contabilizados": {
-          "cantidad": "195653",
-          "porcentaje": "71.2"
-        },
-        "abstenciones": {
-          "cantidad": "79155",
-          "porcentaje": "28.8"
-        },
-        "nulos": {
-          "cantidad": "2494",
-          "porcentaje": "1.27"
-        },
-        "blancos": {
-          "cantidad": "1971",
-          "porcentaje": "1.02"
-        }
-      },
-      "resultados": {
-        "numero_partidos": "12",
-        "partido": [
-          {
-            "id_partido": "83",
-            "nombre": "PP",
-            "electos": "2",
-            "votos_numero": "67249",
-            "votos_porciento": "34.82"
+      "escrutinio_sitio": {
+        "id": "37",
+        "num_a_elegir": "4",
+        "nombre_lugar": "Congreso",
+        "nombre_disputado": "escaños",
+        "porciento_escrutado": "100",
+        "nombre_sitio": "Salamanca",
+        "HASC_2": "ES.CL.SL",
+        "convocatoria": "2019",
+        "ts": "1573454342",
+        "tipo_sitio": "3",
+        "votos": {
+          "contabilizados": {
+            "cantidad": "195653",
+            "porcentaje": "71.2"
           },
-          {
-            "id_partido": "94",
-            "nombre": "PSOE",
-            "electos": "1",
-            "votos_numero": "56710",
-            "votos_porciento": "29.36"
+          "abstenciones": {
+            "cantidad": "79155",
+            "porcentaje": "28.8"
           },
-          {
-            "id_partido": "116",
-            "nombre": "VOX",
-            "electos": "1",
-            "votos_numero": "34883",
-            "votos_porciento": "18.06"
+          "nulos": {
+            "cantidad": "2494",
+            "porcentaje": "1.27"
           },
-          {
-            "id_partido": "18",
-            "nombre": "Cs",
-            "electos": "0",
-            "votos_numero": "16682",
-            "votos_porciento": "8.64"
-          },
-          {
-            "id_partido": "78",
-            "nombre": "PODEMOS-IU",
-            "electos": "0",
-            "votos_numero": "13357",
-            "votos_porciento": "6.92"
-          },
-          {
-            "id_partido": "55",
-            "nombre": "PACMA",
-            "electos": "0",
-            "votos_numero": "908",
-            "votos_porciento": "0.47"
-          },
-          {
-            "id_partido": "113",
-            "nombre": "UPL",
-            "electos": "0",
-            "votos_numero": "284",
-            "votos_porciento": "0.15"
-          },
-          {
-            "id_partido": "89",
-            "nombre": "PREPAL",
-            "electos": "0",
-            "votos_numero": "271",
-            "votos_porciento": "0.14"
-          },
-          {
-            "id_partido": "98",
-            "nombre": "PUM+J",
-            "electos": "0",
-            "votos_numero": "254",
-            "votos_porciento": "0.13"
-          },
-          {
-            "id_partido": "16",
-            "nombre": "CONTIGO",
-            "electos": "0",
-            "votos_numero": "220",
-            "votos_porciento": "0.11"
-          },
-          {
-            "id_partido": "64",
-            "nombre": "PCTE",
-            "electos": "0",
-            "votos_numero": "194",
-            "votos_porciento": "0.1"
-          },
-          {
-            "id_partido": "102",
-            "nombre": "RECORTES CERO-GV-PCAS-TC",
-            "electos": "0",
-            "votos_numero": "176",
-            "votos_porciento": "0.09"
+          "blancos": {
+            "cantidad": "1971",
+            "porcentaje": "1.02"
           }
-        ]
+        },
+        "resultados": {
+          "numero_partidos": "12",
+          "partido": [
+            {
+              "id_partido": "83",
+              "nombre": "PP",
+              "electos": "2",
+              "votos_numero": "67249",
+              "votos_porciento": "34.82"
+            },
+            {
+              "id_partido": "94",
+              "nombre": "PSOE",
+              "electos": "1",
+              "votos_numero": "56710",
+              "votos_porciento": "29.36"
+            },
+            {
+              "id_partido": "116",
+              "nombre": "VOX",
+              "electos": "1",
+              "votos_numero": "34883",
+              "votos_porciento": "18.06"
+            },
+            {
+              "id_partido": "18",
+              "nombre": "Cs",
+              "electos": "0",
+              "votos_numero": "16682",
+              "votos_porciento": "8.64"
+            },
+            {
+              "id_partido": "78",
+              "nombre": "PODEMOS-IU",
+              "electos": "0",
+              "votos_numero": "13357",
+              "votos_porciento": "6.92"
+            },
+            {
+              "id_partido": "55",
+              "nombre": "PACMA",
+              "electos": "0",
+              "votos_numero": "908",
+              "votos_porciento": "0.47"
+            },
+            {
+              "id_partido": "113",
+              "nombre": "UPL",
+              "electos": "0",
+              "votos_numero": "284",
+              "votos_porciento": "0.15"
+            },
+            {
+              "id_partido": "89",
+              "nombre": "PREPAL",
+              "electos": "0",
+              "votos_numero": "271",
+              "votos_porciento": "0.14"
+            },
+            {
+              "id_partido": "98",
+              "nombre": "PUM+J",
+              "electos": "0",
+              "votos_numero": "254",
+              "votos_porciento": "0.13"
+            },
+            {
+              "id_partido": "16",
+              "nombre": "CONTIGO",
+              "electos": "0",
+              "votos_numero": "220",
+              "votos_porciento": "0.11"
+            },
+            {
+              "id_partido": "64",
+              "nombre": "PCTE",
+              "electos": "0",
+              "votos_numero": "194",
+              "votos_porciento": "0.1"
+            },
+            {
+              "id_partido": "102",
+              "nombre": "RECORTES CERO-GV-PCAS-TC",
+              "electos": "0",
+              "votos_numero": "176",
+              "votos_porciento": "0.09"
+            }
+          ]
+        }
       }
     },
     {
